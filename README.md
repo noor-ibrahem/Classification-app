@@ -1,0 +1,2 @@
+
+This work involves building a Streamlit classification application. The application reads an advertising dataset, preprocesses it by dropping irrelevant columns, and then trains a Logistic Regression model to predict whether a user clicked on an ad. The Streamlit interface allows users to input values for features like daily time spent on site, age, area income, daily internet usage, and gender, and then get a prediction from the trained model.
